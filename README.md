@@ -1,2 +1,2 @@
 # BulgakovLM (WIP)
-Russian-language model for generating fiction (GPT-2)
+Russian-language model for for a variety of textual tasks

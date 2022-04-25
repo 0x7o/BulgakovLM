@@ -1,2 +1,2 @@
 # BulgakovLM (WIP)
-Russian-language model for for a variety of textual tasks
+Russian-language model for a variety of textual tasks

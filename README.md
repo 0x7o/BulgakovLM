@@ -4,15 +4,15 @@ BulgakovLM is the largest and open neural network for Russian-language, trained 
 Model is in a state of learning! [W&B](https://wandb.ai/0x7o/mesh-transformer/runs/1h27joh5)
 
 ## Versions
-Name | Parameters (billions) | Loss
+Name | Parameters | Loss
 -- | --- | ---
-6B| ~6.0 | ???
-2.7B | ~2.7 | ???
-1.3B | ~1.3 | ???
-Large | ~0.7 | ???
-Medium | ~0.3 | ???
-Small | ~0.1 | ???
-Tiny | ~0.05 | ???
+6B| 6.05B | ???
+XXL | 2.7B | ???
+XL | 1.3B | ???
+Large | 700M | ???
+Medium | 300M | ???
+Small | 100M | ???
+Tiny | 50M | ???
 
 ## BibTeX entry
 

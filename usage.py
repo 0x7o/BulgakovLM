@@ -1,13 +1,15 @@
 import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
-model_name = 'WIP'
+model_name = '0x7194633/BulgakovLM-6B' # Work in progress
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 model = GPT2LMHeadModel.from_pretrained(model_name)
 
+
 if torch.cuda.is_available():
     model.cuda()
-  
+ 
+
 def generate(text, **kwargs):
     '''
     Generates text based on the input text.

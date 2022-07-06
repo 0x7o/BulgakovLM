@@ -1,7 +1,7 @@
 # BulgakovLM
 BulgakovLM is the largest and open neural network for Russian-language, trained on a wide range of data for use in various NLP tasks.
 
-BulgakovLM is in a state of learning! (W&B)[https://wandb.ai/0x7o/mesh-transformer/runs/1h27joh5]
+BulgakovLM is in a state of learning! [W&B](https://wandb.ai/0x7o/mesh-transformer/runs/1h27joh5)
 
 ## Versions
 Name | Parameters (billions) | PPL | Loss

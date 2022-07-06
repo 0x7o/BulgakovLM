@@ -5,7 +5,7 @@ Model is in a state of learning! [W&B](https://wandb.ai/0x7o/mesh-transformer/ru
 
 ## Versions
 Name | Parameters (billions) | Loss
--- | --- | --- | ---
+-- | --- | ---
 6B| ~6.0 | ???
 2.7B | ~2.7 | ???
 1.3B | ~1.3 | ???

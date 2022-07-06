@@ -7,7 +7,7 @@ Model is in a state of learning! [W&B](https://wandb.ai/0x7o/mesh-transformer/ru
 Name | Parameters | Loss
 -- | --- | ---
 6B| 6.05B | ???
-XXL | 2.7B | ???
+2.7B | 2.7B | ???
 XL | 1.3B | ???
 Large | 700M | ???
 Medium | 300M | ???

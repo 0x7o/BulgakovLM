@@ -1,5 +1,5 @@
 # BulgakovLM
-WIP
+[HuggingFace](https://huggingface.co/0x7194633/BulgakovLM-3B)
 
 # BibTeX entry
 To cite this model:
